@@ -43,7 +43,7 @@ export default function EXLoader() {
             ปีที่ 3 เทอม 1 [On Work]
           </option>
           <option value="TreeTermTwo.pdf">ปีที่ 3 เทอม 2 (วิชาเลือก หัวข้อพิเศษ)</option>
-          <option value="a" disabled>ปีที่ 3 เทอม 2 (วิชาเลือก ถ่ายรูป) [On Work]</option>
+          <option value="TreeTermTwo2.pdf">ปีที่ 3 เทอม 2 (วิชาเลือก ถ่ายรูป) [On Work]</option>
         </select>
       </form>
 
